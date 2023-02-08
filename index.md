@@ -2,4 +2,4 @@
 
 Hello, I'm Zecheng. Here is my CV.
 
-[Download my CV](https://github.com/laevatin/laevatin.github.io/blob/main/pdf/resume.pdf)
+[Download my CV](https://github.com/laevatin/laevatin.github.io/raw/main/pdf/resume.pdf)
